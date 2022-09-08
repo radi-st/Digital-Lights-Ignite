@@ -7,6 +7,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+//make these tests parameterized?
+
 class CliConfigurationReaderTest {
 
     //for testing
